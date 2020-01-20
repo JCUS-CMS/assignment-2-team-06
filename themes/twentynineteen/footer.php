@@ -25,7 +25,11 @@
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen' ) ); ?>" class="imprint">
 				<?php
 				/* translators: %s: WordPress. */
+<<<<<<< HEAD
 				printf( __( 'Proudly powered by %s.', 'twentynineteen' ), 'Hello every one' );
+=======
+				printf( __( 'Proudly powered by %s.', 'twentynineteen' ), 'weihao' );
+>>>>>>> f40387efa95e22cd363fc4ae7b747aafc4ccf157
 				?>
 			</a>
 			<?php

@@ -2,7 +2,7 @@
 <footer class="main-footer">
         <div class="container">
             <div class="f_left">
-                <p>&copy; 2018 - Advanced WP Theme</p>
+                <p>&copy; 2020-Produce by team06</p>
             </div>
          
             </div>

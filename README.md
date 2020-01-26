@@ -7,7 +7,7 @@ Group members:
 2. Song Shi Chen: shichen.song@my.jcu.edu.au
 3. Xian Wei Hao: weihao.xian@my.jcu.edu.au
 4. Chi Khang Vu:
-5. Thi Thao Ngan Le:
+5. Thi Thao Ngan Le: thaongan2706@gmail.com
 
 Environments
 

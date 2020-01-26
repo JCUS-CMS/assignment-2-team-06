@@ -2,7 +2,7 @@
 <footer class="main-footer">
         <div class="container">
             <div class="f_left">
-                <p>&copy; 2020-Produce by team06</p>
+                <p>&copy; 2020-Produce by TEAM06</p>
             </div>
          
             </div>

@@ -18,4 +18,5 @@ Branches --- Main Branches
 The project has two main branches:
 
 Master: The branch used by the production site
+
 Staging: The branch used by the staging site (Your local development environment should be on this branch)

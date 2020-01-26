@@ -2,6 +2,13 @@
 
 assignment-2-team-06 created by GitHub Classroom
 
+Group members:
+1. Li Xin Yi: liz.sg125@gmail.com
+2. Song Shi Chen: shichen.song@my.jcu.edu.au
+3. Xian Wei Hao: weihao.xian@my.jcu.edu.au
+4. Chi Khang Vu:
+5. Thi Thao Ngan Le:
+
 Environments
 
 The "Doctors Connect – Malaysia" website is worked on in three environments
